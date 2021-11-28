@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on building my skills as a **Backend Web Developer**.
+- 🔭 I’m currently working on building my skills as a **Full Stack Web Developer**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 
