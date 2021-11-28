@@ -42,7 +42,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shivam-malluri/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Shivam06082001"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/shivam_malluri"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/shivammalluri/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://leetcode.com/mshivam2012/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height=48px/></a>
 <a href = "https://www.algoexpert.io/questions"><img src="Blob\algoexpert.png" height=46px/></a>
